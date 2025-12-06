@@ -1,0 +1,8 @@
+diffusers
+transformers
+accelerate
+torch
+xformers
+qrcode[pil]
+gradio
+opencv-python-headless
